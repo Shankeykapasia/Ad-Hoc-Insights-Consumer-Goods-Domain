@@ -8,7 +8,7 @@ This repository contains the code and SQL queries used for the Consumer Goods do
 
 **Project Structure**
 
-**SQL Files:**The SQL queries for each of the ten ad hoc requests can be found in the SQL files. These queries are designed to extract and manipulate the necessary data to answer the specific questions.
+SQL Files:The SQL queries for each of the ten ad hoc requests can be found in the SQL files. These queries are designed to extract and manipulate the necessary data to answer the specific questions.
 
 **Project Presentation Files:** This ppt file contains the presentation of this project.
 
