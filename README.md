@@ -1,3 +1,7 @@
+![SQL Project](https://github.com/Shankeykapasia/Ad-Hoc-Insights-Consumer-Goods-Domain/assets/140109263/de035dcf-27a4-46dd-87e0-a4e874c67aa4)
+
+
+
 **Project Overview**
 
 This repository contains the code and SQL queries used for the Consumer Goods domain part of the Data Analytics Bootcamp at Codebasics. In this project, I will be working with a dataset related to consumer goods. The goal is to answer ten specific ad hoc requests using SQL queries. The data used in this project belongs to "AtliQ Hardwares", a leading hardware company specializing in PCs, printers, mice, and computers with a global reach.
